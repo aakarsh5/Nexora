@@ -1,1 +1,1 @@
-# Real-Time-Edge-Detection-Viewer
+# Nexora
